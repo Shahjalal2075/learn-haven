@@ -1,6 +1,6 @@
 
 
-const Banner = () => {
+const Banner1 = () => {
     return (
         <div>
             <h2 className="text-2xl">Banner Section</h2>
@@ -8,4 +8,4 @@ const Banner = () => {
     );
 };
 
-export default Banner;
+export default Banner1;
